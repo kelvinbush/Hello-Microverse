@@ -14,8 +14,8 @@
 
 👤 **Kelvin Bush**
 
-- GitHub: [@githubhandle](https://github.com/kelvinbush)
-- Twitter: [@twitterhandle](https://twitter.com/kelvin_bush_)
+- GitHub: [@kelvinbush](https://github.com/kelvinbush)
+- Twitter: [@kelvin_bush_](https://twitter.com/kelvin_bush_)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kelvin-wachiye-04b469173/)
 
 
